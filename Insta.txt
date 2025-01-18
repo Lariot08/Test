@@ -13,7 +13,7 @@
 10188 mardi 7h45 Alain
 10164 mercredi 09h00 Antsa
 10231 mercredi 17h15 Kahil
-10239 teste Tokiniaina
+10$239 teste Tokiniaina
 10152 jeudi 07h00 Richard(1)
 10190 jeudi 17h15 vola
 10182 samedi 07h45 johson
@@ -22,6 +22,6 @@
 10115 vendredi 15h30 Toky
 10125 vendredi 17h30 Narovana
 10119 teste fenofifaliana
-10179 teste Richard(2)
-10230 teste Ronald
+10179 samedi 12h15 Richard(2)
+102$30 teste Ronald
 10291 teste faralahy
