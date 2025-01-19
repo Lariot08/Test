@@ -2,27 +2,27 @@
 10234
 10292
 10251 Bonus 17h10 winner
-10227 mardi 7h30 SMMTASKER
-10306 dimanche 08h00 denis 
-10516 dimanche 08h30 jesé
+10306 dimanche 08h00 denis 1
+10516 dimanche 08h30 jesé 1-2
 10330 dimanche 06h30 See Nah
-10203 dimanche 09h30 Andrianina
-10829 lundi 16h30 ryan 
-10358 lundi 09h00 tanjona 
-10264 lundi 18h30 Eduardo
-10188 mardi 7h45 Alain
-10164 mercredi 09h00 Antsa
-10231 mercredi 17h15 Kahil
-10$239 teste Tokiniaina
-10152 jeudi 07h00 Richard(1)
-10190 jeudi 17h15 vola
-10182 samedi 07h45 johson
-10114 vendredi 08h:00 lantoniaina
-10147 vendredi 07h30 aldo
-10115 vendredi 15h30 Toky
-10125 vendredi 17h30 Narovana
+10203 dimanche 08h00 Andrianina 1-2
 10119 teste fenofifaliana
-10179 samedi 12h15 Richard(2)
-10230 samedi 19h30 Ronald
+10829 lundi 16h30 ryan 1
+10358 lundi 09h00 tanjona 1
+10264 lundi 18h30 Eduardo 1
+10188 mardi 7h45 Alain 1
+10227 mardi 7h30 SMMTASKER 1
+10164 mercredi 09h00 Antsa 1
+10231 mercredi 17h15 Kahil 1
+10152 jeudi 07h00 Richard(1) 1
+10190 jeudi 17h15 vola 1
+10114 vendredi 08h:00 lantoniaina 1
+10147 vendredi 07h30 aldo 1
+10115 vendredi 15h30 Toky 1
+10125 vendredi 17h30 Narovana 1
+10182 samedi 07h45 johson 1
+10179 samedi 12h15 Richard(2) 1
+10230 samedi 19h30 Ronald 1
 10291 teste faralahy
 10361 teste François 
+10$239 teste Tokiniaina
