@@ -5,20 +5,19 @@
 #1 SMP PREEMPT Mon Dec 12 19:41:09 CST 2022 dimanche 08h30 jesé 1-2
 #1 SMP PREEMPT Thu May 5 19:32:13 CST 2022 dimanche denis 1-2
 10119 dimanche 08h15 fenofifa 1
-10173 dimanche 18h30 Noely 1
+#1 SMP PREEMPT Fri Sep 15 22:47:20 WIB 2017 dimanche 18h30 Noely 1
 10105 dimanche 19h00 Lee Rak 1
-10330 dimanche 19h00 Jou jou 1-2
+#1 SMP PREEMPT Wed Mar 1 19:26:04 CST 2023 dimanche 19h00 Jou jou 1-2
 10113 dimanche 19h15 Samuel 1
 10239 lundi 07h00 Tokiniaina 1
 10361 lundi 08h45 François 1
-10291 lundi 12h10 faralahy 1
-10829 lundi 16h30 ryan 1
+10291 lundi 12h10 faralahy 1#1 SMP PREEMPT Mon Jul 5 10:36:26 CST 2021 lundi 16h30 ryan 1
 10358 lundi 12h tanjona 1-2
 10264 lundi 18h30 Eduardo 1
 10188 mardi 7h45 Alain 1
 10227 mardi 7h30 SMMTASKER 1
 10164 mercredi 09h00 Antsa 1
-10231 mercredi 17h15 Kahil 1
+#1 SMP PREEMPT Fri Apr 22 21:54:17 CST 2022 mercredi 17h15 Kahil 1
 10152 jeudi 07h00 Richard(1) 1
 10190 jeudi 17h15 vola 1
 10114 vendredi 08h:00 lantoniaina 1
@@ -26,5 +25,5 @@
 10115 vendredi 15h30 Toky 1
 10125 vendredi 17h30 Narovana 1
 10182 samedi 07h45 johson 1
-10179 samedi 12h15 Richard(2) 1
+#1 SMP PREEMPT Thu Nov 24 03:17:06 CST 2016 samedi 12h15 Richard(2) 1
 10230 samedi 19h30 Ronald 1
