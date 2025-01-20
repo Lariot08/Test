@@ -6,7 +6,7 @@ dimanche jesé (1-2) #1 SMP PREEMPT Mon Dec 12 19:41:09 CST 2022
 dimanche denis (1-2) #1 SMP PREEMPT Thu May 5 19:32:13 CST 2022 
 10119 dimanche fenofifa 1 
 dimanche Noely (1) #1 SMP PREEMPT Fri Sep 15 22:47:20 WIB 2017 
-dimanche Lee Rak (1) #2 SEMP PREEMPT  Mon Nov 12 20:00:36 CST 2018
+dimanche Lee Rak (1) #2 SMP PREEMPT  Mon Nov 12 20:00:36 CST 2018
 dimanche Jou jou (1-2) #1 SMP PREEMPT Wed Mar 1 19:26:04 CST 2023  
 #1 SMP PREEMPT Sun Nov 12 18:30:21 CST 2017 dimanche Samuel 1
 lundi Tokiniaina (1) #1 SMP PREEMPT Wed Sep 8 18:54:19 CST 2021 
