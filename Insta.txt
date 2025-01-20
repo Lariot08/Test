@@ -24,6 +24,6 @@
 10147 vendredi 07h30 aldo 1
 10115 vendredi 15h30 Toky 1
 10125 vendredi 17h30 Narovana 1
-10182 samedi 07h45 johson 1
+#1 SMP PREEMPT Tue Jan 30 00:19:41 UTC 2024 samedi 07h45 johson 1
 #1 SMP PREEMPT Thu Nov 24 03:17:06 CST 2016 samedi 12h15 Richard(2) 1
 10230 samedi 19h30 Ronald 1
