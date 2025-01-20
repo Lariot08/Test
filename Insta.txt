@@ -12,8 +12,9 @@
 10113 dimanche 19h15 Samuel 1
 10239 lundi 07h00 Tokiniaina 1
 10361 lundi 08h45 François 1
+10291 lundi 12h10 faralahy 1
 10829 lundi 16h30 ryan 1
-10358 lundi 09h00 tanjona 1
+10358 lundi 12h tanjona 1-2
 10264 lundi 18h30 Eduardo 1
 10188 mardi 7h45 Alain 1
 10227 mardi 7h30 SMMTASKER 1
@@ -28,5 +29,3 @@
 10182 samedi 07h45 johson 1
 10179 samedi 12h15 Richard(2) 1
 10230 samedi 19h30 Ronald 1
-10291 teste faralahy
-
