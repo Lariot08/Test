@@ -2,7 +2,7 @@
 #1 SMP PREEMPT Fri Dec 10 13:53:37 WIB 2021 (Lariot)
 10251 Bonus 17h10 winner
 10203 dimanche 08h00 Andrianina 1-2
-10516 dimanche 08h30 jesé 1-2
+#1 SMP PREEMPT Mon Dec 12 19:41:09 CST 2022 dimanche 08h30 jesé 1-2
 #1 SMP PREEMPT Thu May 5 19:32:13 CST 2022 dimanche denis 1-2
 10119 dimanche 08h15 fenofifa 1
 10173 dimanche 18h30 Noely 1
