@@ -14,7 +14,7 @@ lundi François (1) #1 SMP PREEMPT Sun Mar 27 07:32:20 CDT 2022
 lundi faralahy (1) #1 SMP PREEMPT Wed Oct 18 19:03:26 KST 2023
 lundi ryan (1-2) #1 SMP PREEMPT Mon Jul 5 10:36:26 CST 2021 
 lundi tanjona (1-2) #1 SMP PREEMPT Mon Sep 14 18:05:55 WIB 2020 
-lundi Eduardo 1 #1 SMP PREEMPT Tue May 14 14:47:01 +07 2024
+lundi Eduardo 1 #1 SMP PRE@EMPT Tue May 14 14:47:01 +07 2024
 mardi Alain sy niaina niainakely (1-2)(1) #1 SMP PREEMPT Mon Aug 9 14:39:20 CST 2021 
 mardi SMMTASKER (1) #1 SMP PREEMPT Tue Apr 7 12:47:56 CST 2020
 mercredi Antsa (1) #2 SMP PREEMPT Wed Jul 22 22:59:55 CST 2020 
