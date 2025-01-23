@@ -1,4 +1,4 @@
-0#2 SMP PREEMPT  Mon Nov 12 20:00:36 CST 2018 dimanche Lee Rak (1)
+#2 SMP PREEMPT  Mon Nov 12 20:00:36 CST 2018 dimanche Lee Rak (1)
 #1 SMP PREEMPT Thu Jun 15 15:52:58 KST 2023 (Horte)
 #1 SMP PREEMPT Fri Dec 10 13:53:37 WIB 2021 (Lariot)
 teste winner #1 SMP PREEMPT Fri Nov 3 12:30:26 KST 2023
@@ -31,4 +31,3 @@ samedi johson (1) #1 SMP PREEMPT Tue Jan 30 00:19:41 UTC 2024
 samedi Richard2 (1) #1 SMP PREEMPT Thu Nov 24 03:17:06 CST 2016 
 samedi Ronald (1) #1 SMP PREEMPT Fri Sep 18 09:49:34 UTC 2020 
 Lee Rak #2 SMP PREEMPT Mon Nov 12 20:00:36 CST 2018
-teste Philbert 1 #1 SMP PREEMPT Thu Feb 7 22:@14:03 CST 2019
