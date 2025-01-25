@@ -23,7 +23,7 @@ jeudi lantoniaina (1-2) #2 SMP PREEMPT Mon Feb 12 10:03:22 CST 2018
 jeudi Toky (1-2) #1 SMP PREEMPT Wed Mar 18 09:52:24 CST 2020 
 jeudi Richard1 (1-2) #9 SMP PREEMPT Fri Jan 8 16:41:40 CST 2021 
 jeudi vola (1-2) #1 SMP PREEMPT Wed Aug 18 18:17:17 CST 2021 
-jeudi winner (1-2) #1 SMP PREEMPT Fri Nov 3 12:30:26 KST 2023
+jeudi winner (1-2) #1 SMP PREEMPT Fri Nov 3 12:@30:26 KST 2023
 jeudi aldo (1-2) #1 SMP PREEMPT Tue Oct 30 20:31:15 CST 2018 
 vendredi Eduardo (1-2) #1 SMP PREEMPT Tue May 14 14:47:01 +07 2024
 vendredi Narovana (1-2) #1 SMP PREEMPT Sun Jul 1 01:58:46 CST 2018 
