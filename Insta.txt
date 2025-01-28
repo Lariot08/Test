@@ -9,7 +9,7 @@ dimanche virgil (1) #1 SMP PREEMPT Wed Aug 17 19:04:45 CST 2022
 dimanche Noely (1-2) #1 SMP PREEMPT Fri Sep 15 22:47:20 WIB 2017 
 dimanche Jou jou (1-2-3) #1 SMP PREEMPT Wed Mar 1 19:26:04 CST 2023  
 dimanche Samuel (1-2) #1 SMP PREEMPT Sun Nov 12 18:30:21 CST 2017 
-dimanche tanjona (1-2-3) #1 SMP PREEMPT Mon Sep 14 18:05:55 WIB 2020
+lundi tanjona (1-2-3) #1 SMP PREEMPT Mon Sep 14 18:05:55 WIB 2020
 lundi mapyah (1) #1 SMP PREEMPT Tue Aug 28 12:48:42 CST 2018
 lundi François (1) #1 SMP PREEMPT Sun Mar 27 07:32:20 CDT 2022 
 lundi faralahy (1-2) #1 SMP PREEMPT Wed Oct 18 19:03:26 KST 2023
