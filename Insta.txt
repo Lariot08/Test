@@ -15,7 +15,7 @@ lundi faralahy (1-2) #1 SMP PREEMPT Wed Oct 18 19:03:26 KST 2023
 lundi ryan (1-2-3) ProsgyOqPXTUTyIfTANReBHeLHZbsNzYRJK
 mardi Tokiniaina (1) ProYzqHVNomAbCZBxOyRCiEYcyjwcBWRpJK
 mardi Alain (1-2-3) ProWlTJHSVJhxUDSukAmHgTrUJxgGdxnMJK
-mardi Wendy #2 SMP PREEMPT Wed Jan 4 17:10:32 CST 2023
+mardi Wendy (1) ProkWMtiRtWLCHSOUwdMikeYJiVAtassqJK
 mardi ludovic ProNbDjfqtEPiOCpVmcjTZDOglhGHoshHJK
 mercredi Rado Randria (1) #1 SMP PREEMPT Thu Jun 28 04:03:33 CST 2018
 mercredi Antsa (1-2) ProJqJJmIxVETLbvfHUcRklOPoOPnhUeBJK
