@@ -1,6 +1,7 @@
 #1 SMP PREEMPT Tue May 14 14:47:01 +07 2024(edwardo dump)
 ProZcSPTnCsGmKGcVhXkujlsZmeLfOGQEJK (Lariot)
 ProKhElhKDiupuxNEkaCOqsjccJTekLCLJK (Horte)
+ProJxQkiDQnngNDeelmgOYGUgJEoNLLVnJK (Faralahy)
 dimanche Marolahy (1) ProONGIxrcPGUvmlmOaJSOLPkFjoBYuNHJK
 dimanche Andrianina (1-2-3-4) ProeViWgRJVMFYHoWODisMcwzvzuZTdRfJK
 dimanche jesé (1-2-3-4) ProhneNrVANFeGWNJruFiGEcqPBlIikIRJK & ProyqRIFmCdNIPPUXOuXKSautZxGXWFbwJ &ProMETEdZmoAGHfIAfvraRkCYZSTBUKLKJK
@@ -13,10 +14,11 @@ dimanche Samuel (1-2-3) ProUhBnhUQOcEOGiEkfKvDWUDIgaxYLJBJK
 dimanche Evalin (1) ProzZVrEtkeZlKiAlCYPmSXvUFdzvhvqVJK 
 dimanche Lee Rak (1-2-3) ProvoGOluiIVMmqZmWQNFuzWWbWLgucebJK
 dimanche Mahomed (1) ProxUzyyZRFQZnaUzqzBeMDuxkMAdBmkxJK
+dimanche Tsaroana (1) ProNSLCyCeeKGdecfGfvuWbUKFHzqypLuJK
+dimanche Sandratriniana (1) ProcJJPfXEVIPfsWHCqIymFbKiyyxdeGiJK
 lundi tanjona (1-2-3) ProFvJrdgknKulVFvObmzGGyYQxYvyqwyJK
 lundi mapyah (1) ProdnWYPiNNsRRmgTcGEXaZNIPcYyHZGUJK
 lundi François (1-2)
-lundi faralahy (1-2) ProJxQkiDQnngNDeelmgOYGUgJEoNLLVnJK
 lundi ryan (1-2-3) ProsgyOqPXTUTyIfTANReBHeLHZbsNzYRJK
 mardi Tokiniaina (1-2-3) ProYzqHVNomAbCZBxOyRCiEYcyjwcBWRpJK
 mardi Alain (1-2-3) ProWlTJHSVJhxUDSukAmHgTrUJxgGdxnMJK
@@ -47,6 +49,5 @@ samedi Nonoh (1-2) ProzokHjuKiGkKveWJOhqBXFKKnVjtKVUJK
 samedi Ollyah (1) PropEoITGXZjmYlejyOaEvDbYDQQbfVQkJK
 samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJK
 teste thomas (1) ProojwUEawBtyoQqOMNKirjWlZDgNqYKBJK
-teste Tsaroana ProNSLCyCeeKGdecfGfvuWbUKFHzqypLuJK
-ProcJJPfXEVIPfsWHCqIymFbKiyyxdeGiJK teste Sandratriniana
+  
 
