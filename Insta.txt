@@ -20,6 +20,7 @@ dimanche thomas (1) ProojwUEawBtyoQqOMNKirjWlZDgNqYKBJK
 lundi tanjona (1-2-3) ProFvJrdgknKulVFvObmzGGyYQxYvyqwyJK
 lundi mapyah (1) ProdnWYPiNNsRRmgTcGEXaZNIPcYyHZGUJK
 lundi ryan (1-2-3) ProsgyOqPXTUTyIfTANReBHeLHZbsNzYRJK
+lundi Fortino (1) ProRwiJoyFBwnGPameEZJFlwLZfyfBNhLJK
 mardi Tokiniaina (1-2-3) ProYzqHVNomAbCZBxOyRCiEYcyjwcBWRpJK
 mardi Alain (1-2-3) ProWlTJHSVJhxUDSukAmHgTrUJxgGdxnMJK
 mardi Wendy (1) ProkWMtiRtWLCHSOUwdMikeYJiVAtassqJK
@@ -47,7 +48,6 @@ samedi Richard2 (1-2) KProNvFjdEvNYYZtHUZYsBEjfvPWtCopoNJK
 samedi Ronald (1-2-3) ProIcALkDwtOYpDtAtPNfTgRXRcTMrsYyJK
 samedi Nonoh (1-2) ProzokHjuKiGkKveWJOhqBXFKKnVjtKVUJK
 samedi Ollyah (1) PropEoITGXZjmYlejyOaEvDbYDQQbfVQkJK
-samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJK
-teste Fortino ProRwiJoyFBwnGPameEZJFlwLZfyfBNhLJK  
-teste Stephanot ProVCzuNfsNZChMonokczDjWfoOlZaAwvJK
+samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJK  
+teste Stephanot ProVCzuNfsNZChMonokczDjWfoOlZaAwvJ
 teste Francia ProeFoMdKMDrvgXebnnyypEslpaBrarKYJK
