@@ -27,6 +27,9 @@ mardi Tokiniaina (1-2-3) ProYzqHVNomAbCZBxOyRCiEYcyjwcBWRpJK
 mardi Alain (1-2-3) ProWlTJHSVJhxUDSukAmHgTrUJxgGdxnMJK
 mardi Wendy (1-2) ProkWMtiRtWLCHSOUwdMikeYJiVAtassqJK
 mardi ludovic ProNbDjfqtEPiOCpVmcjTZDOglhGHoshHJK
+mardi Martinoh (1) ProJKsAEbUuPxGXyrxqThWHQPCTCMkBPMJK
+mardi amadou (1) ProNzLDemVKxppAtbmcYXSNlrxdJFlJACJK
+mardi mirado (1) ProJbuxGWQjgTRdFdAsWeSoqKGJLStgBBJK
 mercredi Fanilo (1) ProOkTCvmIpKEPqSegKhSoqtZrNxuOcEAJK
 mercredi Rado Randria (1-2) ProoxBiKwBEykreUsIjfkFYxqlsSBerppJK
 mercredi Antsa (1-2-3) ProJqJJmIxVETLbvfHUcRklOPoOPnhUeBJK
@@ -51,6 +54,4 @@ samedi Ronald (1-2-3) ProIcALkDwtOYpDtAtPNfTgRXRcTMrsYyJK
 samedi Nonoh (1-2) ProzokHjuKiGkKveWJOhqBXFKKnVjtKVUJK
 samedi Ollyah (1) PropEoITGXZjmYlejyOaEvDbYDQQbfVQkJK
 samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJK  
-teste Martinoh ProJKsAEbUuPxGXyrxqThWHQPCTCMkBPMJK
-teste amadou ProNzLDemVKxppAtbmcYXSNlrxdJFlJACJK
-teste mirado ProJbuxGWQjgTRdFdAsWeSoqKGJLStgBBJK
+
