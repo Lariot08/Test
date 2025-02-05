@@ -36,6 +36,7 @@ mercredi Antsa (1-2-3) ProJqJJmIxVETLbvfHUcRklOPoOPnhUeBJK
 mercredi SMMTASKER (1-2-3) ProvoQohwmNBrSIfiKhmocRHorkSHOsZwJK
 mercredi Romuald (1-2) ProCXYmBegEoNzvTGYbgPTxKgqRWEYZMkJK
 mercredi lahatra (1) ProcThcFLnjhKfQyIEfKAEhhNUUHRouVFJK
+mercredi Damascène (1) ProCtQXsAidVfCAbPzoHmyEmTQfFlIkIaJK
 jeudi Kahil (1-2-3) ProkGDgXvgXSBZRERtpJBiRjuNLezlUdiJK
 jeud FaNdresena (1) ProBnWRjFuAGubJnhDdGTRaihwKaQGvkwJK
 jeudi lantoniaina (1-2-3) ProydAROKaaZNzbkIciHydSDArrzbUXviJK
@@ -55,5 +56,4 @@ samedi Ronald (1-2-3) ProIcALkDwtOYpDtAtPNfTgRXRcTMrsYyJK
 samedi Nonoh (1-2) ProzokHjuKiGkKveWJOhqBXFKKnVjtKVUJK
 samedi Ollyah (1) PropEoITGXZjmYlejyOaEvDbYDQQbfVQkJK
 samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJK  
-teste Serge ProJgUwzpxAoOgkCZgTAGXTeFItDunXTMJ
-teste Damascène ProCtQXsAidVfCAbPzoHmyEmTQfFlIkIaJK
+teste Serge ProJgUwzpxAoOgkCZgTAGXTeFItDunXTMJK
