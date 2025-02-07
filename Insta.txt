@@ -53,6 +53,8 @@ vendredi Eduardo (1-2-3) ProljDgQchyZYXrEAaGvuDyOSpYwyIbrcJK & ProljDgQchyZYXrEA
 vendredi Narovana (1-2-3) ProvPBGmsYuehzQPfuppbJQxqmEGdDCTbJK
 vendredi Marcel (1-2) ProiEhSCoplTUWnNVizejktLlwpRcowGWJK
 vendredi joseph (1-2) ProJneczlXsykTbCYsBdLvSjkNOTcsuQKJK
+vendredi Torien (1) ProcSrdpGuKKidRbQHNAFBEgoTCZEusISJK 
+vendredi Mariotte (1) ProsJQbPLnEgqvswlskNmkVCnKjxrmMYPJK
 samedi brunel (1) ProKEohRwvtLgCxfbjGwClErPnKIBvKQvJK
 samedi Dival (1) ProageYysUjGAKzfbIJKFGJQklqKxfNhUJK
 samedi Richard2 (1-2) ProNvFjdEvNYYZtHUZYsBEjfvPWtCopoNJK
@@ -60,5 +62,5 @@ samedi Ronald (1-2-3) ProIcALkDwtOYpDtAtPNfTgRXRcTMrsYyJK
 samedi Nonoh (1-2) ProzokHjuKiGkKveWJOhqBXFKKnVjtKVUJK
 samedi Ollyah (1) PropEoITGXZjmYlejyOaEvDbYDQQbfVQkJK
 samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJK  
-ProcSrdpGuKKidRbQHNAFBEgoTCZEusISJK teste Torien
-teste Mariotte ProsJQbPLnEgqvswlskNmkVCnKjxrmMYPJK
+teste Rolland ProUlaQygrNEmZwgexaDWIwBfyhXQortdJK
+teste Fetra ProciDxemOsnagKgjmDIOSuelmKbgixltJK
