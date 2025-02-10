@@ -23,8 +23,9 @@ lundi mapyah (1-2-3) ProdnWYPiNNsRRmgTcGEXaZNIPcYyHZGUJK
 lundi ryan (1-2-3-4) ProsgyOqPXTUTyIfTANReBHeLHZbsNzYRJK
 lundi Fortino (1-2) ProRwiJoyFBwnGPameEZJFlwLZfyfBNhLJK
 lundi Francia (1) ProeFoMdKMDrvgXebnnyypEslpaBrarKYJK
-lundi Stephanot (1) ProVCzuNfsNZChMonokczDjWfoOlZaAwvJK
-lundi Nantenaina (1) ProVSlYaNAxRdmSuIJAbrxlTrDmYzAgaiJ
+lundi Stephanot (1) ProVCzuNfsNZChMonokczDjWfoOlZaAwvJ
+lundi Abel PropHDlwUvufaieoSWDdVHjyPvleiRtrgJK
+lundi junior  ProZptdPTeMjlfrsRyuzzYsUGCsFHOsDyJK
 mardi Tokiniaina (1-2-3-4) ProYzqHVNomAbCZBxOyRCiEYcyjwcBWRpJK
 mardi Alain (1-2-3-4) ProWlTJHSVJhxUDSukAmHgTrUJxgGdxnMJK
 mardi Wendy (1-2) ProkWMtiRtWLCHSOUwdMikeYJiVAtassqJK
@@ -73,6 +74,4 @@ samedi Eliot (1) ProbWtoMRiyNkkVcwtNnkrrtbqyeFsCoQJK
 samedi Flavien (1) ProshUKyuiPtuPlOEjcZLizSPfyqZqqKFJK
 samedi Faniloniaina (1) ProwCclGdBXzLNfcZTGJTczdirWZIbPBMJK
 teste Florentine ProsrteNSfPPxydDHRpeAXhpWYbpbyBudJ
-teste Namjoonk ProbyPmyVwqiFdRSdQBfMjnhrLYQlyWWUJK
-teste cpl PropHDlwUvufaieoSWDdVHjyPvleiRtrgJK
-teste junior  ProZptdPTeMjlfrsRyuzzYsUGCsFHOsDyJK
+teste Namjoonk ProbyPmyVwqiFdRSdQBfMjnhrLYQlyWWUJ
