@@ -36,7 +36,6 @@ mardi Wendy (1-2) ProkWMtiRtWLCHSOUwdMikeYJiVAtassqJK
 mardi Martinoh (1-2) ProJKsAEbUuPxGXyrxqThWHQPCTCMkBPMJK
 mardi amadou (1-2) ProGkEKvpLnnPBzgPSunDPTqiWyXvlvGRJK
 mardi Namjoonk ProbyPmyVwqiFdRSdQBfMjnhrLYQlyWWUJK
-mercredi Fanilo (1-2) ProOkTCvmIpKEPqSegKhSoqtZrNxuOcEAJ
 mercredi Rado Randria (1-2-3) ProoxBiKwBEykreUsIjfkFYxqlsSBerppJK
 mercredi Antsa (1-2-3-4-5) ProJqJJmIxVETLbvfHUcRklOPoOPnhUeBJK
 mercredi SMMTASKER (1-2-3-4-5) ProvoQohwmNBrSIfiKhmocRHorkSHOsZwJK
@@ -44,16 +43,16 @@ mercredi lahatra (1-2) ProcThcFLnjhKfQyIEfKAEhhNUUHRouVFJK
 mercredi Damascène (1) ProCtQXsAidVfCAbPzoHmyEmTQfFlIkIaJK
 mercredi Serge (1-2) ProJgUwzpxAoOgkCZgTAGXTeFItDunXTMJK
 mercredi Julie (1-2) ProYpVCWHBuNqtVCpJOdRJMQEahzvvJOaJK
-mercredi Lee Rak (1-2-3) ProvoGOluiIVMmqZmWQNFuzWWbWLgucebJK
-jeudi Kahil (1-2-3-4) ProkGDgXvgXSBZRERtpJBiRjuNLezlUdiJK
-jeudi FaNdresena (1-2) ProBnWRjFuAGubJnhDdGTRaihwKaQGvkwJK
-jeudi lantoniaina (1-2-3-4) ProydAROKaaZNzbkIciHydSDArrzbUXviJK
-jeudi Toky (1-2-3-4) ProMlGtCOcWNBqeQPRmqusArhaWODyBCpJK
-jeudi Richard1 (1-2-3) ProkxIXQztLqlXdxbbvfFaKoSoIPPhHlWJK
-jeudi vola (1-2-3) ProBULfYUIsAjmXCQTEvUWcvJXgqiaAXcJ
+mercredi Lee Rak (1-2-3-4) ProvoGOluiIVMmqZmWQNFuzWWbWLgucebJK
+jeudi Kahil (1-2-3-4-5) ProkGDgXvgXSBZRERtpJBiRjuNLezlUdiJK
+jeudi FaNdresena (1-2-3) ProBnWRjFuAGubJnhDdGTRaihwKaQGvkwJK
+jeudi lantoniaina (1-2-3-4-5) ProydAROKaaZNzbkIciHydSDArrzbUXviJK
+jeudi Toky (1-2-3-4-5) ProMlGtCOcWNBqeQPRmqusArhaWODyBCpJK
+jeudi Richard1 (1-2-3-4-5) ProkxIXQztLqlXdxbbvfFaKoSoIPPhHlWJK
 jeudi winner (1-2-3-4) PronuxUdNEElGHhzRhDnqFbhgnwhxuOIPJK
-jeudi Tahiny (1) PropHbOplYERokatOAuGeuNFKbBCdRiJkJK
+jeudi Tahiny (1-2) PropHbOplYERokatOAuGeuNFKbBCdRiJkJK
 jeudi François (1) ProdFCbkNxdniusOKhEUhFWrnqZyYKqCVJ
+jeudi odilon (1) ProhLVfzUEMOyjhBPoWqTCIizIYEBBQvwJK
 vendredi Eduardo (1-2-3) ProljDgQchyZYXrEAaGvuDyOSpYwyIbrcJK
 vendredi Narovana (1-2-3-4) ProvPBGmsYuehzQPfuppbJQxqmEGdDCTbJK
 vendredi Marcel (1-2-3) ProiEhSCoplTUWnNVizejktLlwpRcowGWJK
@@ -73,4 +72,3 @@ samedi Fetra (1) ProciDxemOsnagKgjmDIOSuelmKbgixltJK
 samedi Eliot (1) ProbWtoMRiyNkkVcwtNnkrrtbqyeFsCoQJK
 samedi Flavien (1) ProshUKyuiPtuPlOEjcZLizSPfyqZqqKFJK
 samedi Faniloniaina (1) ProDLgeDepdhERODLxMAQrEphTJirnBcUJ $ ProwCclGdBXzLNfcZTGJTczdirWZIbPBMJK
-teste odilon ProhLVfzUEMOyjhBPoWqTCIizIYEBBQvwJK
