@@ -62,13 +62,11 @@ vendredi Mariotte (1) ProsJQbPLnEgqvswlskNmkVCnKjxrmMYPJK
 vendredi Jo Ram (1) ProrFjXTQtOYeMEbRSWGvwSuLShDKgUHRJK
 vendredi Mananjara ProtNiqSlvCbciUcJlgPXMJQIUbemogfYJK
 samedi Santho (1) ProzCnfITbYChxWcRdvaoOwLOZcRswfKYJK
-samedi brunel (1) ProKEohRwvtLgCxfbjGwClErPnKIBvKQvJK
-samedi Rolland (1) ProUlaQygrNEmZwgexaDWIwBfyhXQortdJK
-samedi Dival (1) ProageYysUjGAKzfbIJKFGJQklqKxfNhUJK
+samedi brunel (1) ProKEohRwvtLgCxfbjGwClErPnKIBvKQvJ
+samedi Dival (1) ProageYysUjGAKzfbIJKFGJQklqKxfNhUJ
 samedi Richard2 (1-2) ProNvFjdEvNYYZtHUZYsBEjfvPWtCopoNJK
 samedi Ronald (1-2-3) ProIcALkDwtOYpDtAtPNfTgRXRcTMrsYyJK
-samedi Nonoh (1-2) ProzokHjuKiGkKveWJOhqBXFKKnVjtKVUJK
-samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJK  
+samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJ  
 samedi Fetra (1) ProciDxemOsnagKgjmDIOSuelmKbgixltJK
 samedi Flavien (1) ProshUKyuiPtuPlOEjcZLizSPfyqZqqKFJK
 teste ProshdPmPSwSRGxFmtxurzvzPupphfSFmJK
