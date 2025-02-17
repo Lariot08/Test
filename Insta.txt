@@ -15,28 +15,26 @@ dimanche Tsaroana (1-2) ProclOXkjPCjUITbSKgvahrYIXRkRRqJhJK
 dimanche Sandratriniana (1) ProcJJPfXEVIPfsWHCqIymFbKiyyxdeGiJK
 dimanche thomas (1-2) ProojwUEawBtyoQqOMNKirjWlZDgNqYKBJK
 lundi Aldo PronuDbUZcRtlKZByWxtNPySqphPRFeaqJK
-lundi tanjona (1-2-3-4-5) ProFvJrdgknKulVFvObmzGGyYQxYvyqwyJK
-lundi Octavien (1) ProfPgQPXhBIQyPFixInIObkUNiFvedvyJK
-lundi Mihaja (1) ProKUItUIAAtpkKJwYfEJDYusgZBCHHClJK
+lundi tanjona ProFvJrdgknKulVFvObmzGGyYQxYvyqwyJK
+lundi Octavien ProfPgQPXhBIQyPFixInIObkUNiFvedvyJK
+lundi Mihaja ProKUItUIAAtpkKJwYfEJDYusgZBCHHClJK
 lundi Vanombelo (1) ProaNjDSAZmghDFcgGZSVRQPIgwNbjasrJK
-lundi mapyah (1-2-3-4) ProdnWYPiNNsRRmgTcGEXaZNIPcYyHZGUJK
-lundi ryan (1-2-3-4-5) ProsgyOqPXTUTyIfTANReBHeLHZbsNzYRJK
-lundi Fortino (1-2) ProRwiJoyFBwnGPameEZJFlwLZfyfBNhLJK
-lundi Francia (1-2) ProeFoMdKMDrvgXebnnyypEslpaBrarKYJK
-lundi Stephanot (1-2) ProVCzuNfsNZChMonokczDjWfoOlZaAwvJK
-lundi Abel (1) ProEYSjbppIVaFzsPrIBBxznocsvGibHfJK
-lundi Romuald (1) ProCXYmBegEoNzvTGYbgPTxKgqRWEYZMkJK
+lundi mapyah ProdnWYPiNNsRRmgTcGEXaZNIPcYyHZGUJK
+lundi ryan ProsgyOqPXTUTyIfTANReBHeLHZbsNzYRJK
+lundi Fortino ProRwiJoyFBwnGPameEZJFlwLZfyfBNhLJK
+lundi Francia ProeFoMdKMDrvgXebnnyypEslpaBrarKYJK
+lundi Stephanot ProVCzuNfsNZChMonokczDjWfoOlZaAwvJK
+lundi Abel ProEYSjbppIVaFzsPrIBBxznocsvGibHfJK
 lundi junior  (1) ProZptdPTeMjlfrsRyuzzYsUGCsFHOsDyJ
-lundi Florentine ProsrteNSfPPxydDHRpeAXhpWYbpbyBudJK
 lundi Carolinah ProshdPmPSwSRGxFmtxurzvzPupphfSFmJK
 lundi Norbert ProoKMbILJeYdCRobdIPllysNKLMDXKmVJK
-mardi mirado (1-2) ProJbuxGWQjgTRdFdAsWeSoqKGJLStgBBJK
-mardi Tokiniaina (1-2-3-4-5) ProYzqHVNomAbCZBxOyRCiEYcyjwcBWRpJK
-mardi Alain (1-2-3-4-5) ProWlTJHSVJhxUDSukAmHgTrUJxgGdxnMJK
-mardi Wendy (1-2) ProkWMtiRtWLCHSOUwdMikeYJiVAtassqJK
-mardi Martinoh (1-2) ProJKsAEbUuPxGXyrxqThWHQPCTCMkBPMJK
-mardi amadou (1-2) ProGkEKvpLnnPBzgPSunDPTqiWyXvlvGRJ
-mardi Namjoonk ProbyPmyVwqiFdRSdQBfMjnhrLYQlyWWUJK
+lundi Tsaradia ProYSWcjsDODCIfMAFiYDJqjGBkTLiCDfJK
+lundi mirado ProJbuxGWQjgTRdFdAsWeSoqKGJLStgBBJK
+mardi Tokiniaina ProYzqHVNomAbCZBxOyRCiEYcyjwcBWRpJK
+lundi Alain ProWlTJHSVJhxUDSukAmHgTrUJxgGdxnMJK
+lundi Wendy ProkWMtiRtWLCHSOUwdMikeYJiVAtassqJK
+lundi Martinoh ProJKsAEbUuPxGXyrxqThWHQPCTCMkBPMJK
+mardi amadou ProGkEKvpLnnPBzgPSunDPTqiWyXvlvGRJ
 mercredi Rado Randria (1-2-3) ProoxBiKwBEykreUsIjfkFYxqlsSBerppJK
 mercredi Antsa (1-2-3-4-5) ProJqJJmIxVETLbvfHUcRklOPoOPnhUeBJK
 mercredi SMMTASKER (1-2-3-4-5) ProvoQohwmNBrSIfiKhmocRHorkSHOsZwJK
@@ -70,4 +68,3 @@ samedi Ronald (1-2-3) ProIcALkDwtOYpDtAtPNfTgRXRcTMrsYyJK
 samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJK 
 samedi Fetra (1) ProciDxemOsnagKgjmDIOSuelmKbgixltJK
 samedi Flavien (1) ProshUKyuiPtuPlOEjcZLizSPfyqZqqKFJK
-teste ProYSWcjsDODCIfMAFiYDJqjGBkTLiCDfJK
